@@ -11,12 +11,12 @@
 
  #a1{
 top:0px;
+float:left;
 background-color: pink;
  text-align:right;
 border:3px solid yellow;
 display: inline;
 position: relative;
-left:90%;
  }
  .d1{
  border:3px solid red;
