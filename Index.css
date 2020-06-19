@@ -10,13 +10,18 @@
  }
 
  #a1{
-top:0px;
-left:290px;
-background-color: pink;
- text-align:right;
-border:3px solid yellow;
-display: inline;
-position: relative;
+position:absolute;
+  display:inline;
+  border: 1px solid #0000FF;
+  margin: 0px 0px 0px 10px;
+  padding: 5px;
+  color: #000000;
+  background: #faffc3;
+  opacity:.90;
+  right:0;
+  margin-right: 105%;
+
+
  }
  .d1{
  border:3px solid red;
